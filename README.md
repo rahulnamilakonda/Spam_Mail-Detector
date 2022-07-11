@@ -1,19 +1,14 @@
 # Spam_Mail-Detector
 
-## Screenshots
+## Main Body
 
 ![App Screenshot](https://github.com/rahulnamilakonda/Spam_Mail-Detector/blob/master/screenshots/screenshot1.PNG)
-
-
-## Screenshots
 
 ![App Screenshot](https://github.com/rahulnamilakonda/Spam_Mail-Detector/blob/master/screenshots/screenshot2.PNG)
 
 
-## Screenshots
+## Results
 
 ![App Screenshot](https://github.com/rahulnamilakonda/Spam_Mail-Detector/blob/master/screenshots/screenshot3.PNG)
-
-## Screenshots
 
 ![App Screenshot](https://github.com/rahulnamilakonda/Spam_Mail-Detector/blob/master/screenshots/screenshot4.PNG)
